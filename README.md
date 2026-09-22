@@ -1,5 +1,4 @@
 # Tharindi Anuththara — Portfolio
-
 A personal portfolio website built with React, showcasing my projects, 
 skills, certifications, and leadership experience as a Software 
 Engineering undergraduate.
