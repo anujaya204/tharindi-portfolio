@@ -581,13 +581,13 @@ function App() {
 
           <motion.div className="contact-links" variants={staggerVariants}>
             <motion.a
-              href="mailto:tjayasena64@gmail.com"
+              href="mailto:anuththara.dev88@gmail.com"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               transition={springTransition}
             >
               <span className="contact-label">EMAIL</span>
-              tjayasena64@gmail.com
+              anuththara.dev88@gmail.com
             </motion.a>
 
             <motion.a
