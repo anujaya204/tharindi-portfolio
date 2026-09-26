@@ -1,16 +1,18 @@
-# React + Vite
+# Tharindi Anuththara Portfolio
+A personal portfolio website built with React, showcasing my projects, 
+skills, certifications, and leadership experience as a Software 
+Engineering undergraduate.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live site:** [tharindi-anuththara.vercel.app](https://tharindi-anuththara.vercel.app)
 
-Currently, two official plugins are available:
+## Built With
+- React
+- Vite
+- Framer Motion (animations)
+- React Icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- Responsive design across desktop and mobile
+- Smooth scroll animations on section reveal
+- Sections: About, Skills, Projects, Education, Leadership & Involvement, 
+  Certificates, Currently Learning, Contact
